@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "build": "set NODE_ENV=node && babel src -d dist"
+    "build": "babel src -d ."
   },
   "repository": {
     "type": "git",
